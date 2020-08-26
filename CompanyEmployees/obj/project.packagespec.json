@@ -1,0 +1,116 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+    "projectName": "CompanyEmployees",
+    "projectPath": "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+    "outputPath": "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\CompanyEmployees\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+            "projectPath": "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+          },
+          "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj": {
+            "projectPath": "C:\\Code\\Code Maze\\Source Code\\16-Paging in ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "AspNetCoreRateLimit": {
+          "target": "Package",
+          "version": "[3.0.5, )"
+        },
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.0.0, )"
+        },
+        "Marvin.Cache.Headers": {
+          "target": "Package",
+          "version": "[5.0.1, )"
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[3.1.7, )"
+        },
+        "Microsoft.AspNetCore.JsonPatch": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Versioning": {
+          "target": "Package",
+          "version": "[4.1.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.Extensions.Logging.Debug": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.5.1, )"
+        },
+        "System.Linq.Dynamic.Core": {
+          "target": "Package",
+          "version": "[1.2.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

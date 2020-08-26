@@ -1,0 +1,14 @@
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

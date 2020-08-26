@@ -1,0 +1,9 @@
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Code\Code Maze\Source Code\16-Paging in ASP.NET Core Web API\CompanyEmployees\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
